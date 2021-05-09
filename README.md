@@ -1,2 +1,2 @@
 # E-commerce Template
- Using Flickity.css library
+ Using Flickity.css library for carousels
