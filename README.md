@@ -1,4 +1,4 @@
-# E-commerce Template
+# Shoppe Ecommerce Template
 > Shopee Electronics website using 
 - Html
 - CSS
