@@ -1,2 +1,3 @@
 # E-commerce Template
- Using Flickity.css library for carousels
+> Shopee Electronics website using 
+- Flickity library for carousels
